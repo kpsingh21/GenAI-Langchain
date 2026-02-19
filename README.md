@@ -33,3 +33,6 @@ https://reference.langchain.com/
 
 
 largest platform for Open source repo : https://huggingface.co/models
+
+
+https://github.com/campusx-official/langchain-models/
