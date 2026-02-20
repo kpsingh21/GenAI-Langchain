@@ -36,3 +36,11 @@ largest platform for Open source repo : https://huggingface.co/models
 
 
 https://github.com/campusx-official/langchain-models/
+
+Turn your data scripts into shareable web apps in minutes.
+All in pure Python. No front‑end experience required.
+https://streamlit.io/
+https://docs.streamlit.io/develop/api-reference/widgets
+
+need to do pip install streamlit
+then : streamlist run  yourscript.py
