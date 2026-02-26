@@ -30,6 +30,7 @@ https://developers.openai.com/api/docs
 
 
 https://reference.langchain.com/
+https://docs.langchain.com/oss/python/langchain/overview
 
 
 largest platform for Open source repo : https://huggingface.co/models
@@ -44,3 +45,14 @@ https://docs.streamlit.io/develop/api-reference/widgets
 
 need to do pip install streamlit
 then : streamlist run  yourscript.py
+
+
+Transformer
+https://poloclub.github.io/transformer-explainer/
+
+
+Google Colaboratory (usually called Google Colab) is a cloud-based Jupyter notebook environment that lets you write and run Python code directly in your browser.
+https://colab.research.google.com/
+
+https://arxiv.org/pdf/1706.03762
+https://www.tensorflow.org/text/tutorials/word2vec
