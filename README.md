@@ -56,3 +56,11 @@ https://colab.research.google.com/
 
 https://arxiv.org/pdf/1706.03762
 https://www.tensorflow.org/text/tutorials/word2vec
+
+
+
+we need to install this lib : pip install langchain-community
+
+
+character splitter
+https://chunkviz.up.railway.app/
